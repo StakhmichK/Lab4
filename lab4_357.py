@@ -1,4 +1,4 @@
 s = input("Enter the word: ")
-s=s.lower
-resault = s[::2]
+word = s.lower()
+resault = word[::2]
 print(resault)
